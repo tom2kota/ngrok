@@ -1,0 +1,29 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Initial API Post #1",
+      "content": "Initial Message from JSON Server"
+    },
+    {
+      "id": 2,
+      "title": "Initial API Post #2",
+      "content": "Initial Message from JSON Server"
+    },
+    {
+      "id": 3,
+      "title": "Initial API Post #3",
+      "content": "Initial Message from JSON Server"
+    },
+    {
+      "id": 4,
+      "title": "Initial API Post #4",
+      "content": "Initial Message from JSON Server"
+    },
+    {
+      "id": 5,
+      "title": "Initial API Post #5",
+      "content": "Initial Message from JSON Server"
+    }
+  ]
+}

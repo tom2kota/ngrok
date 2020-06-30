@@ -1,0 +1,21 @@
+{
+  "name": "ngrok-tunnel",
+  "version": "1.0.0",
+  "description": "Ngrok tunnels for localhost + JSON server",
+  "main": "index.js",
+  "scripts": {
+    "db": "json-server -w db.json -p 3001",
+    "tunnel": "ngrok http 3001 ",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ngrok",
+    "json-server"
+  ],
+  "author": "Tom Kota",
+  "license": "MIT",
+  "dependencies": {
+    "json-server": "^0.16.1",
+    "ngrok": "^3.2.7"
+  }
+}
